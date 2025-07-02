@@ -1,4 +1,4 @@
-<p>Project</p>
+Project
 
 Python and JavaScript
 
